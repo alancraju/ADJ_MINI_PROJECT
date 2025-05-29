@@ -3,7 +3,9 @@
 👨‍🎓 Student Details
 
 Name: ALAN C RAJU
+
 USN:  4AL22CS009
+
 Section: A
 
 ---
