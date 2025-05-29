@@ -1,0 +1,1 @@
+# ADJ_MINI_PROJECT
