@@ -1,4 +1,4 @@
- Mark Management System - MarkWebApp
+ Mark Management System
 
 👨‍🎓 Student Details
 
